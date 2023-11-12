@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 	project = {
-		name: '',
+		name: 'Stats preview card component',
 		card: {
 			title: 'Get <mark>insights</mark> that help your business grow.',
 			description:
